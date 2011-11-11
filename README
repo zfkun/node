@@ -1,1 +1,6 @@
 app for android.
+
+/ppt:
+    公司内部分享时做的一个在线PPT（借助了html5rocks的slider程序）
+    扩展增加了WebSocket支持，用来实现无线的远程控制（控制器使用）
+ 
