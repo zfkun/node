@@ -1,9 +1,10 @@
 {
-    "name": "Node.js PPT"
-  , "version": "0.0.1"
-  , "private": true
-  , "dependencies": {
-      "express": "2.4.3"
-    , "ejs": ">= 0.0.1"
-  }
+	"name": "LivePPT",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express": ">= 3.0.0rc3",
+		"ejs": ">= 0.0.1",
+		"socket.io": ">= 0.9.10"
+	}
 }
